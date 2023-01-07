@@ -74,8 +74,6 @@ The list of topics include:
 - Quantum Gates
 - Deutsch Algorithm
 - Oracles and Random Oracles 
-- Qiskit
-- Quantum Circuits
 
 ## Author
 
